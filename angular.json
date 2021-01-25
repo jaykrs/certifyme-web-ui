@@ -24,9 +24,25 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/style.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/owl.carousel.min.css",
+              "src/assets/css/responsive.css",
+              "src/assets/css/selectric.css",
+              "src/assets/css/simple-line-icons.css",
+              "src/assets/css/timeTo.css",
+              "src/assets/css/woocommerce.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery.selectric.js",
+              "src/assets/js/jquery-3.3.1.min.js",
+              "src/assets/js/jquery-ui.min.js",
+              "src/assets/js/main.js",
+              "src/assets/js/plugins.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -88,9 +104,25 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/style.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/font-awesome.min.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/owl.carousel.min.css",
+              "src/assets/css/responsive.css",
+              "src/assets/css/selectric.css",
+              "src/assets/css/simple-line-icons.css",
+              "src/assets/css/timeTo.css",
+              "src/assets/css/woocommerce.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery.selectric.js",
+              "src/assets/js/jquery-3.3.1.min.js",
+              "src/assets/js/jquery-ui.min.js",
+              "src/assets/js/main.js",
+              "src/assets/js/plugins.js"
+            ]
           }
         },
         "lint": {
@@ -119,6 +151,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "certifyme-web-ui"
+    }
+  },
+  "defaultProject": "certifyme-web-ui",
+  "cli": {
+    "analytics": "bbe38391-b2c8-4fb4-801c-23ac1fd24d46"
+  }
 }

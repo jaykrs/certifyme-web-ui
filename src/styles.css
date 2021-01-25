@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'assets/css/style.css';
+@import 'assets/css/bootstrap.min.css';
+@import 'assets/css/font-awesome.min.css';
+@import 'assets/css/magnific-popup.css';
+@import 'assets/css/owl.carousel.min.css';
+@import 'assets/css/responsive.css';
+@import 'assets/css/selectric.css';
+@import 'assets/css/simple-line-icons.css';
+@import 'assets/css/timeTo.css';
+@import 'assets/css/woocommerce.css';
